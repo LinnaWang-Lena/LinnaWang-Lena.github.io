@@ -47,11 +47,14 @@ My research interests lie at the intersection of artificial intelligence and hea
 
 # 🎖 Honors and Awards
 - *2024.12* Third Prize, The 10th China Graduate Contest on Smart-City Technology and Creative Design (第10届中国研究生智慧城市技术与创意设计大赛). 
-- *2024.10*  Second Prize, Huawei Cup, 6th China Graduate AI Innovation Competition (“华为杯”第6届中国研究生人工智能创新大赛).
+- *2024.10* Second Prize, Huawei Cup, 6th China Graduate AI Innovation Competition (“华为杯”第6届中国研究生人工智能创新大赛).
 
+# ⏳ Professional Services
+- *2025.5 - now* Member, PhD Science Popularization and Education Lecture Group, Sichuan University.
+  
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.05 - 2025.08*, Community Manager, at a blockchain data indexing technology provider <a href='https://pinax.network/en'>Pinax</a>
+- *2022.05 - 2025.08*, Community Manager, at a blockchain data indexing technology provider <a href='https://pinax.network/en'>Pinax</a>.
