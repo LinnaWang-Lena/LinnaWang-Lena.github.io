@@ -46,7 +46,7 @@ My research interests lie at the intersection of artificial intelligence and hea
 9. Li L, **Wang L**, Lu L, et al. Machine learning prediction of postoperative unplanned 30-day hospital readmission in older adult[J]. Frontiers in Molecular Biosciences, 2022, 9: 910688.
 
 # 🎖 Honors and Awards
-- *2024.12* Third Prize, The 10th China Graduate Contest on Smart-City Technology and Creative Design (第10届中国研究生智慧城市技术与创意设计大赛三等奖). 
+- *2024.12* Third Prize, The 10th China Graduate Contest on Smart-City Technology and Creative Design (第10届中国研究生智慧城市技术与创意设计大赛). 
 - *2024.10*  Second Prize, Huawei Cup, 6th China Graduate AI Innovation Competition (“华为杯”第6届中国研究生人工智能创新大赛).
 
 <!-- # 💬 Invited Talks
