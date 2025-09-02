@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Linna Wang is a Ph.D. candidate in Computer Science at Sichuan University, advised by Prof. Li Lu and Prof. Ziliang Feng. She received her Master (2022) and Bachelor (2019) degrees in Computer Science from Sichuan University, China. 
+I am a Ph.D. candidate in Computer Science at Sichuan University, advised by Prof. Li Lu and Prof. Ziliang Feng. I received my Master (2022) and Bachelor (2019) degrees in Computer Science from Sichuan University, China. 
 
-My research interests lie at the intersection of artificial intelligence and healthcare, with a particular focus on data augmentation, causal machine learning, and large language models.I have actively published in leading conferences and journals in machine learning and medical informatics, including BIBM, COGSCI, ICANN, BMC Medical Informatics and Decision Making, Journal of Affective Disorders, Frontiers in Public Health, and Frontiers in Molecular Biosciences (<a href='https://scholar.google.com/citations?hl=zh-CN&user=sbsucXoAAAAJ'>google scholar</a>). For inquiries regarding research, collaborations, or resources, she can be reached via WeChat (lenamelody) or email (lenawang@stu.scu.edu.cn).
+My research interests lie at the intersection of artificial intelligence and healthcare, with a particular focus on **data augmentation**, **causal machine learning**, and **large language models**. I have actively published in leading conferences and journals in machine learning and medical informatics, including BIBM, COGSCI, ICANN, BMC Medical Informatics and Decision Making, Journal of Affective Disorders, Frontiers in Public Health, and Frontiers in Molecular Biosciences (<a href='https://scholar.google.com/citations?hl=zh-CN&user=sbsucXoAAAAJ'>google scholar</a>). For inquiries regarding research, collaborations, or resources, she can be reached via WeChat (lenamelody) or email (lenawang@stu.scu.edu.cn).
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
