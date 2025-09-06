@@ -35,10 +35,10 @@ My research interests lie at the intersection of artificial intelligence and hea
 
 # 📝 Publications 
 
-1. Guo, X., Liu, S., Jiang, L., Xiong, Z., **Wang, L.**, Lu, L., ... & Shek, D. T. (2025). Longitudinal machine learning prediction of non-suicidal self-injury among Chinese adolescents: A prospective multicenter Cohort study. Journal of Affective Disorders, 120110.
-2. **Wang L**, Guo X, Shi H, et al. CRISP: A causal relationships-guided deep learning framework for advanced ICU mortality prediction[J]. BMC Medical Informatics and Decision Making, 2025, 25(1): 165.
-3. **Li S**, Wang L, Guo X, et al. Prediction of Cognitive Impairment in Middle-aged and Elderly People: A Method Based on Granger Causality[C]//Proceedings of the Annual Meeting of the Cognitive Science Society. 2025, 47.
-4. **Wang L**, Guo X, Shi H, et al. Long-Term Cognitive Trajectory Prediction in a Chinese Cohort of Middle-Aged and Older Adults Using Causal Machine Learning[C]//Proceedings of the Annual Meeting of the Cognitive Science Society. 2025, 47.
+1. **Wang L**, Guo X, Shi H, et al. CRISP: A causal relationships-guided deep learning framework for advanced ICU mortality prediction[J]. BMC Medical Informatics and Decision Making, 2025, 25(1): 165.
+2. Guo, X., Liu, S., Jiang, L., Xiong, Z., **Wang, L.**, Lu, L., ... & Shek, D. T. (2025). Longitudinal machine learning prediction of non-suicidal self-injury among Chinese adolescents: A prospective multicenter Cohort study. Journal of Affective Disorders, 120110.
+3. **Wang L**, Guo X, Shi H, et al. Long-Term Cognitive Trajectory Prediction in a Chinese Cohort of Middle-Aged and Older Adults Using Causal Machine Learning[C]//Proceedings of the Annual Meeting of the Cognitive Science Society. 2025, 47.
+4. Li S, **Wang L**, Guo X, et al. Prediction of Cognitive Impairment in Middle-aged and Elderly People: A Method Based on Granger Causality[C]//Proceedings of the Annual Meeting of the Cognitive Science Society. 2025, 47.
 5. Guo X, **Wang L**, Li Z, et al. Factors and pathways of non-suicidal self-injury in children: insights from computational causal analysis[J]. Frontiers in public health, 2024, 12: 1305746.
 6. **Wang L**, Guo X, Zhou Y, et al. Dynamic Causal Graph-Based Learning Approach for Predicting Cognitive Impairment in Middle-Aged and Older Adults[C]//Proceedings of the Annual Meeting of the Cognitive Science Society. 2024, 46.
 7. **Wang L**, Zhao L, Luo Z, et al. CARE-30: A causally driven multi-modal model for enhanced 30-day ICU readmission predictions[C]//2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2023: 1509-1516.
@@ -51,6 +51,7 @@ My research interests lie at the intersection of artificial intelligence and hea
 
 # ⏳ Professional Services
 - *2025.5 - now* Member, PhD Science Popularization and Education Lecture Group, Sichuan University.
+- *2023.10 - 2024.10* Lecturer, Seven-Dimensional Space National Heavy Equipment Interactive Experience Pavilion.
   
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
