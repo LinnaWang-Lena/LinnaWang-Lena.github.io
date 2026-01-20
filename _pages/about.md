@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. candidate in Computer Science at Sichuan University, China, supervised by Prof. Li Lu and Prof. Ziliang Feng. I previously obtained my M.S. (2022) and B.S. (2019) degrees in Computer Science from Sichuan University.
 
-My research interests lie at the intersection of artificial intelligence and healthcare, with a particular focus on **causal machine learning**, **data augmentation**, and **large language models**. I have actively published in leading conferences and journals in machine learning and medical informatics, including BIBM, COGSCI, ICANN, BMC Medical Informatics and Decision Making, Journal of Affective Disorders, Frontiers in Public Health, and Frontiers in Molecular Biosciences (<a href='https://scholar.google.com/citations?hl=zh-CN&user=sbsucXoAAAAJ'>google scholar</a>). For inquiries regarding research, collaborations, or resources, she can be reached via WeChat (lenamelody) or email (lenawang@stu.scu.edu.cn).
+My research interests lie at the intersection of artificial intelligence and healthcare, with a particular focus on **causal machine learning**, **data augmentation**, and **large language models**. I have actively published in leading conferences and journals in machine learning and medical informatics, including AAAI, BIBM, COGSCI, ICANN, BMC Medical Informatics and Decision Making, Journal of Affective Disorders, Frontiers in Public Health, and Frontiers in Molecular Biosciences (<a href='https://scholar.google.com/citations?hl=zh-CN&user=sbsucXoAAAAJ'>google scholar</a>). For inquiries regarding research, collaborations, or resources, she can be reached via WeChat (lenamelody) or email (lenawang@stu.scu.edu.cn).
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -35,15 +35,16 @@ My research interests lie at the intersection of artificial intelligence and hea
 
 # 📝 Publications 
 
-1. **Wang L**, Guo X, Shi H, et al. CRISP: A causal relationships-guided deep learning framework for advanced ICU mortality prediction[J]. BMC Medical Informatics and Decision Making, 2025, 25(1): 165.
-2. Guo, X., Liu, S., Jiang, L., Xiong, Z., **Wang, L.**, Lu, L., ... & Shek, D. T. (2025). Longitudinal machine learning prediction of non-suicidal self-injury among Chinese adolescents: A prospective multicenter Cohort study. Journal of Affective Disorders, 120110.
-3. **Wang L**, Guo X, Shi H, et al. Long-Term Cognitive Trajectory Prediction in a Chinese Cohort of Middle-Aged and Older Adults Using Causal Machine Learning[C]//Proceedings of the Annual Meeting of the Cognitive Science Society. 2025, 47.
-4. Li S, **Wang L**, Guo X, et al. Prediction of Cognitive Impairment in Middle-aged and Elderly People: A Method Based on Granger Causality[C]//Proceedings of the Annual Meeting of the Cognitive Science Society. 2025, 47.
-5. Guo X, **Wang L**, Li Z, et al. Factors and pathways of non-suicidal self-injury in children: insights from computational causal analysis[J]. Frontiers in public health, 2024, 12: 1305746.
-6. **Wang L**, Guo X, Zhou Y, et al. Dynamic Causal Graph-Based Learning Approach for Predicting Cognitive Impairment in Middle-Aged and Older Adults[C]//Proceedings of the Annual Meeting of the Cognitive Science Society. 2024, 46.
-7. **Wang L**, Zhao L, Luo Z, et al. CARE-30: A causally driven multi-modal model for enhanced 30-day ICU readmission predictions[C]//2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2023: 1509-1516.
-8. Wang X, Li Y, **Wang L**, et al. Cfnet: Point cloud upsampling via cascaded feedback network[C]//International Conference on Artificial Neural Networks. Cham: Springer Nature Switzerland, 2023: 317-329.
-9. Li L, **Wang L**, Lu L, et al. Machine learning prediction of postoperative unplanned 30-day hospital readmission in older adult[J]. Frontiers in Molecular Biosciences, 2022, 9: 910688.
+1. **Wang L**, et al. REACT-LLM: A Benchmark for Evaluating LLM Integration with Causal Features in Clinical Prognostic Tasks. AAAI 2026.
+2. **Wang L**, Guo X, Shi H, et al. CRISP: A causal relationships-guided deep learning framework for advanced ICU mortality prediction[J]. BMC Medical Informatics and Decision Making, 2025, 25(1): 165.
+3. Guo, X., Liu, S., Jiang, L., Xiong, Z., **Wang, L.**, Lu, L., ... & Shek, D. T. (2025). Longitudinal machine learning prediction of non-suicidal self-injury among Chinese adolescents: A prospective multicenter Cohort study. Journal of Affective Disorders, 120110.
+4. **Wang L**, Guo X, Shi H, et al. Long-Term Cognitive Trajectory Prediction in a Chinese Cohort of Middle-Aged and Older Adults Using Causal Machine Learning[C]//Proceedings of the Annual Meeting of the Cognitive Science Society. 2025, 47.
+5. Li S, **Wang L**, Guo X, et al. Prediction of Cognitive Impairment in Middle-aged and Elderly People: A Method Based on Granger Causality[C]//Proceedings of the Annual Meeting of the Cognitive Science Society. 2025, 47.
+6. Guo X, **Wang L**, Li Z, et al. Factors and pathways of non-suicidal self-injury in children: insights from computational causal analysis[J]. Frontiers in public health, 2024, 12: 1305746.
+7. **Wang L**, Guo X, Zhou Y, et al. Dynamic Causal Graph-Based Learning Approach for Predicting Cognitive Impairment in Middle-Aged and Older Adults[C]//Proceedings of the Annual Meeting of the Cognitive Science Society. 2024, 46.
+8. **Wang L**, Zhao L, Luo Z, et al. CARE-30: A causally driven multi-modal model for enhanced 30-day ICU readmission predictions[C]//2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2023: 1509-1516.
+9. Wang X, Li Y, **Wang L**, et al. Cfnet: Point cloud upsampling via cascaded feedback network[C]//International Conference on Artificial Neural Networks. Cham: Springer Nature Switzerland, 2023: 317-329.
+10. Li L, **Wang L**, Lu L, et al. Machine learning prediction of postoperative unplanned 30-day hospital readmission in older adult[J]. Frontiers in Molecular Biosciences, 2022, 9: 910688.
 
 # 🎖 Honors and Awards
 - *2024.12* Third Prize, The 10th China Graduate Contest on Smart-City Technology and Creative Design (第10届中国研究生智慧城市技术与创意设计大赛). 
